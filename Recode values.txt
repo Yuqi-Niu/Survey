@@ -1,0 +1,25 @@
+Demographics-Q1：1 18-24；2 25-34；3 35-44；4 45-54；5 55 or older
+Demographics-Q2：1 Male；2 Female；3 Non-binary / third gender；4 Prefer not to say
+Demographics-Q3：1 African American/Black；2 Hispanic or Latino；3 Asian；4 Native American；5 Middle Eastern；6 White or Caucasian；7 Multiple races；8 Others；9 Prefer not to answer
+Demographics-Q4：1 Less than high school；2 High school or equivalent；3 Some college,no degree；4 Associate's degree,occupational；5 Associate's degree,academic；6 Bachelor's Degree；7 Master's Degree；8 Professional Degree；9 Doctoral Degree；10 Prefer not to say
+Demographics-Q5：
+1 Yes；2 No；3 Prefer not to say
+Scenario Question
+Q-1：1 Definitely not a bystander；2 Probably not a bystander；3 Unsure；4 Probably a bystander；5 Definitely a bystander
+Q-2：1 Strongly disagree；2 Disagree；3 Neutral；4 Agree；5 Strongly agree
+Q-3：1 This photo is not focused on me. 2 There is no specific subject in this photo. 3 I am in the background of this photo. 4 My appearance is different than other people in this photo. 5 My activity is different than other people in this photo. 6 I am blocked by other people/objects. 7 The uploader didn't mention me. 8 I did not actively participate in photography. 10 My relationship with the uploader leads me to perceive myself as a bystander in the photo. 9 Other (Please describe)
+Q-4：1 This photo is focused on me. 2 This photo is about what I was doing. 3 I am the only person in the photo. 4 I am taking a large space in the photo. 5 I was doing the same activity as other people in this photo. 6 The appearance of me is similar to other people of this photo. 7 I actively participated in photography. 8 The uploader mentioned me. 9 I am in the foreground of this photo. 11 My relationship with the uploader leads me to perceive myself not as a bystander in the photo. 10 Other (Please describe)
+Q-5：5 Despite not being the intended focus, I was important to this photo. 14 Despite not being the intended focus, I actively participated in the shooting and intentionally became a part of the photo. 15 Despite not being the intended focus, I was mentioned when the photographer uploaded the photo. 16 Despite being the intended focus, I didn't actively participate in the shooting. 17 Despite being the intended focus, I was not mentioned when the photographer uploaded the photo. 18 My relationship with the photographer makes it difficult to determine whether I was a bystander. 19 My position in the photo makes it difficult to determine whether I was a bystander. 20 The photographer aimed to capture the entire scene, and I just happened to be in the scene. 21 Other (Please describe)
+Q-6：1 Extremely uncomfortable；2 Uncomfortable；3 Neither comfortable nor uncomfortable；4 Comfortable；5 Extremely comfortable
+Q-7：1 Not sensitive at all；2 Slightly sensitive；3 Moderately sensitive；4 Very sensitive；5 Extremely sensitive
+Q-8：1 Extremely negative；2 Negative；3 Neither positive nor negative；4 Positive；5 Extremely positive
+Privacy QuestionQ1_1：1 Strongly disagree；2 Disagree；3 Neutral；4 Agree；5 Strongly agree
+Privacy QuestionQ1_2：1 Strongly disagree；2 Disagree；3 Neutral；4 Agree；5 Strongly agree
+Privacy QuestionQ1_3：1 Strongly disagree；2 Disagree；3 Neutral；4 Agree；5 Strongly agree
+Privacy QuestionQ1_4：1 Strongly disagree；2 Disagree；3 Neutral；4 Agree；5 Strongly agree
+Privacy QuestionQ1_5：1 Strongly disagree；2 Disagree；3 Neutral；4 Agree；5 Strongly agree
+Privacy QuestionQ2_1：1 Strongly disagree；2 Disagree；3 Somewhat disagree；4 Neutral；5 Somewhat agree；6 Agree；7 Strongly agree
+Privacy QuestionQ2_2：1 Strongly disagree；2 Disagree；3 Somewhat disagree；4 Neutral；5 Somewhat agree；6 Agree；7 Strongly agree
+Privacy QuestionQ2_3：1 Strongly disagree；2 Disagree；3 Somewhat disagree；4 Neutral；5 Somewhat agree；6 Agree；7 Strongly agree
+Privacy QuestionQ2_4：1 Strongly disagree；2 Disagree；3 Somewhat disagree；4 Neutral；5 Somewhat agree；6 Agree；7 Strongly agree
+Privacy QuestionQ3：1 Very private；8 Private；2 Somewhat private；3 Neutral；4 Somewhat open；5 Open；6 Very open
